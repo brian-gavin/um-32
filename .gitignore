@@ -1,2 +1,4 @@
 /target
 **/*.rs.bk
+# disas dumps
+codex*.txt
